@@ -15,14 +15,15 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-    Add the files one at a time when they're changed, then commit before adding the
-    next file.
+    Add the files one at a time when they're changed, then commit before adding
+    the next file.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-    Trying out some feature that you're not sure if it's going to work. Would be easy
-    to go back to the working version and change some things there if necessary.
+    Trying out some feature that you're not sure if it's going to work. Would
+    be easy to go back to the working version and change some things there if
+    necessary.
 
 How do the diagrams help you visualize the branch structure?
 
@@ -30,6 +31,10 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+    It combines all of the commits from the two branches, and one branch takes
+    over. The diagram is like this because one branch has merged into the other
+    one.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
