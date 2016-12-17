@@ -6,16 +6,23 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the
 repository?
 
-    You don't need to add all files in the working directory to the repository. This
-    might be useful if you only want to track changes in certain files.
+    You don't need to add all files in the working directory to the repository.
 
 What value do you think it offers?
+
+    This might be useful if you only want to track changes in certain files.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+    Add the files one at a time when they're changed, then commit before adding the
+    next file.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+    Trying out some feature that you're not sure if it's going to work. Would be easy
+    to go back to the working version and change some things there if necessary.
 
 How do the diagrams help you visualize the branch structure?
 
