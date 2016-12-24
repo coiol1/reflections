@@ -37,4 +37,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    This lets you suggest changes by making pull requests, so that the code
+    doesn't change automatically while someone else might be working on it. They
+    would have to see the change and approve it first before anything changes,
+    which might be conceptually easier to work on. It may be more efficient to
+    just work on the master branch though, as long as the different people
+    are all quite clear on what they're going to change and not change.
