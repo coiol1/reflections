@@ -29,7 +29,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Setting up GitHub takes some time to get it right, and each person has to
+    remember to keep pulling and pushing when they do some work. It would make
+    collaboration on a large project easier though, since each person could work
+    on a different section and then merge it all together.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
